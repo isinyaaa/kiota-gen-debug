@@ -1,0 +1,5 @@
+Warning: KiotaBuilder OpenAPI warning: #/ - Multiple servers entries were found in the OpenAPI description. Only the first one will be used. The root URL can be set manually with the request adapter.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/MetadataIntValue/properties/int_value - The format int64 is not supported by Kiota for the type string and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/WithBaseResource/properties/id - The format int64 is not supported by Kiota for the type string and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/WithBaseResource/properties/createTimeSinceEpoch - The format int64 is not supported by Kiota for the type string and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/WithBaseResource/properties/lastUpdateTimeSinceEpoch - The format int64 is not supported by Kiota for the type string and the string type will be used.
